@@ -12,17 +12,7 @@ This application utilizes RTMP streaming and is designed to run as a Dockerized 
 
 ## Project Structure
 
-The project follows a simple structure:
-
-.
-├── public # Contains HTML and JavaScript files for frontend
-│ ├── index.html # Main HTML file for the frontend
-│ └── script.js # JavaScript file for frontend functionality
-├── index.js # Backend server code
-└── Dockerfile # Dockerfile for containerization
-
-bash
-Copy code
+The project follows a simple structure
 
 ## Setup and Running
 
